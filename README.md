@@ -96,7 +96,6 @@ Returns the price for individual items when sold separately.
 SinglePrice = Shipment:shipmentPriceSep()         # 500
 ```
 
-### Extended Information (New in 2025)
 
 #### `entity:shipmentCategory()` / `shipmentCategory(string)`
 Returns the category/classification of the shipment.
