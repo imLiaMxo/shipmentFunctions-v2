@@ -13,7 +13,7 @@
 
 local EXTENSION_NAME = "Shipments E2 Extension"
 local EXTENSION_VERSION = "2.0.0"
-local EXTENSION_AUTHOR = "TylerB (Original), Liam (2025 Rewrite)"
+local EXTENSION_AUTHOR = "TylerB (Original), Liam (Rewrite)"
 
 -- Performance optimizations
 local IsValid = IsValid
