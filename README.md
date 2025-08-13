@@ -291,7 +291,7 @@ This extension is designed to be future-proof and maintainable. If you encounter
 
 ## Credits
 
-- **Original Extension**: TylerB
+- **Original Extension**: [TylerB](https://github.com/TylerB260/shipmentFunctions-v1)
 
 ---
 
